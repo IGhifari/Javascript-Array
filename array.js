@@ -6,3 +6,8 @@
 
 // console.log(players[0]);
 
+
+let warna = ["merah", "kuning", "hijau", "biru", "ungu"];
+
+console.log(warna[0]);
+
